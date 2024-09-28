@@ -7,4 +7,4 @@ Coloring the canvas
 
 
 Lighting the spheres
-![](spheres-shadow.ppm)
+![](spheres-shadow.jpg)
