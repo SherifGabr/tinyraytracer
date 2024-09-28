@@ -6,5 +6,5 @@ Coloring the canvas
 ![](out.jpg)
 
 
-Lighting the spheres
+Diffuse lighting
 ![](spheres-shadow.jpg)
