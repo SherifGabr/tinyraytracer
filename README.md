@@ -5,11 +5,11 @@ Based on the [tinyraytracer](https://github.com/ssloy/tinyraytracer) project by 
 
 ## Coloring the canvas
 
-![](out.jpg)
+![](out.jpg =400x)
 
 
 ## Diffuse lighting
-![](spheres-shadow.jpg)
+![](spheres-shadow.jpg =400x)
 
 ## Specular lighting
-![](spheres-spec.jpg)
+![](spheres-spec.jpg  =400x)
