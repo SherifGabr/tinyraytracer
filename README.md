@@ -12,4 +12,4 @@ Based on the [tinyraytracer](https://github.com/ssloy/tinyraytracer) project by 
 ![](spheres-shadow.jpg)
 
 ## Specular lighting
-![](spheres-shadow.jpg)
+![](spheres-spec.jpg)
