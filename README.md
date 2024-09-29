@@ -10,3 +10,6 @@ Based on the [tinyraytracer](https://github.com/ssloy/tinyraytracer) project by 
 
 ## Diffuse lighting
 ![](spheres-shadow.jpg)
+
+## Specular lighting
+![](spheres-shadow.jpg)
