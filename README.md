@@ -1,4 +1,4 @@
-# Toy Raytracer
+# Tiny Raytracer
 
 An experimental raytracer to understand raycasting, lighting, shadows, reflections, and more.
 
@@ -15,3 +15,13 @@ Based on the [tinyraytracer](https://github.com/ssloy/tinyraytracer) project by 
 ## Specular Lighting
 
 <img src="spheres-spec.jpg" alt="Spheres with specular lighting" width="400">
+
+
+## Reflection
+
+<img src="spheres-reflection.jpg" alt="Spheres with reflection" width="400">
+
+
+## Refraction
+
+<img src="spheres-refraction.jpg" alt="Spheres with refraction" width="400">
