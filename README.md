@@ -1,4 +1,4 @@
-# Tiny Raytracer
+# tinyraytracer
 
 <img src="tinyraytracer.png" alt="Cover image">
 
